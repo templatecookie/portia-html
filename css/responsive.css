@@ -1,0 +1,381 @@
+@media(min-width: 320px)and (max-width:360px) {
+    .navbar-default .navbar-brand {
+        font-size: 20px;
+        padding: 16px 0;
+    }
+    .navbar-default .navbar-toggle:focus,
+    .navbar-default .navbar-toggle:hover {
+        background-color: transparent;
+    }
+    .navbar-default .navbar-toggle .icon-bar {
+        background-color: #fff;
+    }
+    .navbar-default .navbar-toggle {
+        border-color: #fff;
+    }
+    .navbar-default .navbar-nav>li>a {
+        font-size: 15px;
+        font-weight: 700;
+        margin: 0 3px;
+        padding: 10px 0 19px;
+    }
+    /* === Banner === */
+    .banner_inner h3 {
+        font-size: 18px;
+    }
+    .banner_inner h1 {
+        font-size: 22px;
+        font-weight: 800;
+        letter-spacing: 2px;
+        margin-bottom: 15px;
+        margin-top: 15px;
+        text-transform: uppercase;
+    }
+    .banner_inner h1 {
+        font-size: 22px;
+        letter-spacing: 2px;
+        margin-bottom: 10px;
+        margin-top: 10px;
+    }
+    .banner_inner a {
+        font-size: 14px;
+        font-weight: 700;
+        margin-right: 8px;
+        margin-top: 5px;
+        padding: 5px 13px;
+    }
+    .banner_inner {
+        padding: 99px 0 65px;
+    }
+    /* === About Part === */
+    .s_common {
+        padding: 27px 0 38px;
+    }
+    .headline h2 {
+        font-size: 30px;
+        margin-bottom: 15px;
+        margin-top: 15px;
+    }
+    .headline h2::after {
+        height: 5px;
+        left: 40%;
+        top: 36px;
+        width: 65px;
+    }
+    .headline h2::before {
+        height: 2px;
+        left: 26.5%;
+        top: 38.4px;
+        width: 150px;
+    }
+    .headline p {
+        font-size: 18px;
+        margin-top: 0px;
+    }
+    .about_left img {
+        margin-top: 0px;
+    }
+    .about_right {
+        text-align: center;
+    }
+    .about_right h3 {
+        font-size: 26px;
+        margin: 20px 0 6px;
+        padding: 0 0 1px;
+    }
+    .ar_bottom {
+        padding-top: 0;
+    }
+    .ar_bottom table td,
+    th {
+        border: 1px solid #dddddd;
+        font-size: 15px;
+        padding: 3px 5px;
+        text-align: left;
+    }
+    .about_right p {
+        font-size: 14px;
+        line-height: 24px;
+        margin: 15px 0 0;
+    }
+    .about_social {
+        margin: 20px 0 0;
+    }
+    .cv {
+        font-size: 14px;
+        font-weight: 600;
+        margin: 3px 20px 0 0;
+        padding: 8px 15px;
+    }
+    .about_social i {
+        font-size: 18px;
+        height: 39px;
+        line-height: 39px;
+        margin: 6px 0;
+        width: 39px;
+    }
+    /* === Skill & Services === */
+    .services {
+        margin-top: 30px;
+    }
+    .ser_one {
+        padding-bottom: 1px;
+        padding-top: 2px;
+    }
+    /* === Skill  === */
+    .menu li {
+        font-size: 14px;
+        margin-right: 3px;
+        padding: 7px 15px;
+    }
+    .srf {
+        margin-top: 30px;
+    }
+    /* === Skill  === */
+    /* === Portfolio Part === */
+    .img-hvr-txt h4 {
+        font-size: 23px;
+        margin-top: 45px;
+    }
+    .img-hvr-txt i {
+        font-size: 18px;
+        margin-left: 5px;
+        margin-top: 10px;
+        padding: 10px 13px;
+    }
+    /* === Client Part === */
+    .testi {
+        padding: 0 3px 15px;
+    }
+    /* === Counter === */
+    .count_col_1 h3 {
+        font-size: 31px;
+        font-weight: bold;
+        line-height: 35px;
+        margin: 0;
+    }
+    .count_col_1 p {
+        font-size: 21px;
+        margin: 0;
+    }
+    /* === Contact Part */
+    .cleft_h p {
+        color: #fff;
+        font-size: 15px;
+    }
+    .cleft_1 i {
+        font-size: 25px;
+        height: 45px;
+        line-height: 45px;
+        margin-right: 8px;
+        width: 45px;
+    }
+    .c_row {
+  margin-top: 0px;
+}
+    .cleft_social i {
+        font-size: 22px;
+        height: 45px;
+        line-height: 45px;
+        margin-left: 0;
+        margin-right: 10px;
+        margin-top: 5px;
+        width: 45px;
+    }
+    .mr18 {
+        margin-right: 8px;
+    }
+    .fname {
+        margin-top: 40px;
+        padding: 10px 15px;
+        width: 48%;
+    }
+    .f_social i {
+        font-size: 20px;
+        height: 45px;
+        line-height: 45px;
+        margin: 5px;
+        width: 45px;
+    }
+    .f_text p {
+        font-size: 16px;
+    }
+}
+
+@media(min-width:768px) and (max-width:991px) {
+    .navbar-default .navbar-brand {
+        font-size: 20px;
+        padding-top: 20px;
+    }
+    .navbar-default .navbar-nav>li>a {
+        font-size: 14px;
+        margin: 0 3px;
+        padding: 20px 20px 18px;
+    }
+    .navbar-default .navbar-nav>li>a.hire_me {
+        font-size: 14px;
+        margin-right: 15px;
+        margin-top: 12px;
+        padding: 8px 20px;
+    }
+    /* === Banner Section === */
+    .banner_inner {
+        padding: 185px 0 180px;
+    }
+    .banner_inner h3 {
+        font-size: 23px;
+    }
+    .banner_inner h1 {
+        font-size: 40px;
+        margin-bottom: 5px;
+        margin-top: 15px;
+    }
+    /* === About Part === */
+    .s_common {
+        padding: 50px 0 65px;
+    }
+    .headline h2 {
+        font-size: 36px;
+        margin-bottom: 25px;
+    }
+    .headline h2::before {
+        left: 35.3%;
+        top: 50px;
+    }
+    .headline h2::after {
+        left: 43%;
+        top: 47px;
+    }
+    .headline p {
+        font-size: 18px;
+    }
+    .about_left img {
+        margin-top: 70px;
+    }
+    .about_right h3 {
+        font-size: 30px;
+        margin: 15px 0 0px;
+        padding: 0 2px 0 0;
+    }
+    .about_right p {
+        font-size: 14px;
+        line-height: 24px;
+        margin: 12px 0 0;
+    }
+    .about_social {
+        margin: 25px 0 0;
+    }
+    .cv {
+        font-size: 15px;
+        font-weight: 600;
+        margin: 5px 20px 0 0;
+        padding: 10px 25px;
+    }
+    .about_social i {
+        font-size: 18px;
+        height: 44px;
+        line-height: 44px;
+        margin: 5px 3px;
+        width: 44px;
+    }
+    /* === skill & Services Part === */
+    .ser_one i {
+        font-size: 35px;
+        margin-bottom: 10px;
+        margin-top: 13px;
+    }
+    .ser_one h3 {
+        font-size: 20px;
+        margin: 0 0 7px;
+    }
+    /* === Portfolio Part === */
+    .menu li {
+        border: 1px solid #000;
+        cursor: pointer;
+        display: inline-block;
+        font-size: 14px;
+        font-weight: 500;
+        margin-right: 5px;
+        padding: 7px 20px;
+        transition: all 0.4s linear 0s;
+    }
+    .img-hvr-txt h4 {
+        font-size: 20px;
+        margin-top: 20px;
+    }
+    .img-hvr-txt i {
+        font-size: 18px;
+        margin-left: 5px;
+        margin-top: 5px;
+        padding: 10px 12px;
+    }
+    /* === Testimonial Part === */
+    .testi {
+        padding: 0 20px 15px;
+    }
+    .first_p img {
+        border: 1px solid #ccc;
+        float: left;
+        margin-right: 18px;
+        padding: 5px;
+        width: 90px;
+    }
+    .cl_text h3 {
+        font-size: 20px;
+        line-height: 20px;
+        padding-top: 6px;
+    }
+    .second_p {
+        font-size: 14px;
+        line-height: 24px;
+    }
+    /* === Counter Part === */
+    [class^="flaticon-"]::before,
+    [class*=" flaticon-"]::before,
+    [class^="flaticon-"]::after,
+    [class*=" flaticon-"]::after {
+        font-size: 50px;
+    }
+    .count_col_1 h3 {
+        font-size: 35px;
+        font-weight: bold;
+        line-height: 20px;
+    }
+    .count_col_1 p {
+        font-size: 20px;
+        margin-bottom: 0px;
+    }
+    /* === Contact Part === */
+    .cleft_h p {
+        font-size: 15px;
+        line-height: 24px;
+    }
+    .cleft_1 i {
+        font-size: 25px;
+        height: 45px;
+        line-height: 45px;
+        margin-right: 10px;
+        width: 45px;
+    }
+    .cleft_1>p {
+        font-size: 15px;
+        margin: 0;
+    }
+    .cleft_social i {
+        font-size: 20px;
+        height: 45px;
+        line-height: 45px;
+        margin: 5px 10px 0 0;
+        width: 45px;
+    }
+    .mr18 {
+        margin-right: 10px;
+    }
+    .f_social i {
+        font-size: 20px;
+        height: 45px;
+        line-height: 45px;
+        margin: 5px;
+        width: 45px;
+    }
+}
