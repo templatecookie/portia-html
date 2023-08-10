@@ -1,18 +1,27 @@
-# [templatecookie.com](https://templatecookie.com)
-FREE UI & HTML Templates for Designer and Developer. Lomeyo Labs is a place where a team of design & developers create beautiful templates.
+# [Templatecookie](https://templatecookie.com)
+Templatecookie.com creates quality templates and php scripts. Templatecookie has many free HTML & Figma templates available for professional use. Templatecookie is famous for its premium PHP Scripts available on [Codeanyon Marketplace](https://codecanyon.net/user/templatecookie). Browse [Templatecookie](https://templatecookie.com) today and discover awesome digital products.
 
-# [Portia Personal Portfolio Bootstrap Template](https://portia-personal-portfolio.netlify.app/)
+# [Minimal - Personal Portfolio HTML Template](https://www.templatecookie.com/products)
 
-> One page personal portfolio html template based on bootstrap framework
+> Minimal is a personal portfolio HTML template especially for UI/UX designer.
 
-This project is a bootstrap version [One Page Personal Portfolio Template](https://portia-personal-portfolio.netlify.app/) designed with HTML & CSS.
+Check the [Live Demo here](https://minimal-personal-portfolio.netlify.app/).
 
-Check the [Live Demo here](https://portia-personal-portfolio.netlify.app/).
+![](screenshot.png)
 
-![Project Screenshot](img/screenshot.png)
+## Pages List
+- One Page Website (Landing Page)
+
+
+## Framework & Technologies
+- bootstrap
+- scss
+- fancy
+- jQuery
 
 ## Credits
-- Design & coded by [Zakir Hossen](https://github.com/devzakir)
+- Design & Developed by [Templatecookie](https://templatecookie.com)
 
 ## License
 The MIT License (MIT). Please see [License File](LICENSE.md) for more information.
+
