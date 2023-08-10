@@ -3,7 +3,7 @@ Templatecookie.com creates quality templates and php scripts. Templatecookie has
 
 # [Portia - Personal Portfolio HTML Template](https://www.templatecookie.com/products)
 
-> Portia is a personal portfolio HTML template especially for UI/UX designer.
+> Portia is a personal portfolio HTML template with a showcase project.
 
 Check the [Live Demo here](https://portia-personal-portfolio.netlify.app/).
 
